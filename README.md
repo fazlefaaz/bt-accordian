@@ -1,2 +1,2 @@
 # bt-accordian
-bt-accordian assignment
+https://fazlefaaz.github.io/bt-accordian/
